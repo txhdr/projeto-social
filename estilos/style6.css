@@ -23,7 +23,7 @@ main{
     height: 100vh;
 }
 
-section{
+section#telefone{
     background: url(../imagens/frame-iphone.png) no-repeat;
     position: absolute;
 
